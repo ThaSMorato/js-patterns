@@ -1,0 +1,13 @@
+{
+  "name": "factory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "devDependencies": {
+    "rewiremock": "^3.14.3"
+  }
+}
